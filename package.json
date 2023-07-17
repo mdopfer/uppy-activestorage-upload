@@ -1,5 +1,5 @@
 {
-  "name": "@excid3/uppy-activestorage-upload",
+  "name": "@michaeldopfer/uppy-activestorage-upload",
   "description": "Rails ActiveStorage DirectUpload engine for Uppy",
   "version": "1.0.0",
   "license": "MIT",
