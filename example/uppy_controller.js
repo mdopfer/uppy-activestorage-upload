@@ -21,6 +21,9 @@ export default class extends Controller {
   }
 
   connect() {
+
+    console.log("Hello world");
+
     this.uppy = new Uppy({
       autoProceed: true,
       allowMultipleUploads: false,
